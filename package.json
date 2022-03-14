@@ -12,5 +12,10 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "encaenmi",
-	"description": "A project for learning NPM"
+	"description": "A project for learning NPM",
+	"keywords": [
+		"freecodecamp",
+		"npm",
+		"learning"
+	]
 }
