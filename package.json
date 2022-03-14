@@ -19,8 +19,5 @@
 		"learning"
 	],
 	"license": "MIT",
-	"version": "0.0.1",
-	"dependencies": {
-		"moment": "^2.10.2"
-	}
+	"version": "0.0.1"
 }
